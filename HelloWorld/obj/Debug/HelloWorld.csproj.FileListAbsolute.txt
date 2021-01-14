@@ -1,0 +1,10 @@
+C:\Users\vmadmin\source\repos\OOP-Exercises\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\vmadmin\source\repos\OOP-Exercises\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\vmadmin\source\repos\OOP-Exercises\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\vmadmin\source\repos\OOP-Exercises\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\OOP-Exercises\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\vmadmin\source\repos\OOP-Exercises\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\OOP-Exercises\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\OOP-Exercises\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\OOP-Exercises\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\vmadmin\source\repos\OOP-Exercises\HelloWorld\obj\Debug\HelloWorld.pdb
