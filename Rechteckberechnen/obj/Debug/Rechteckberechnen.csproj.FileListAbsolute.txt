@@ -1,0 +1,10 @@
+C:\Users\vmadmin\source\repos\OOP-Exercises\Rechteckberechnen\bin\Debug\Rechteckberechnen.exe.config
+C:\Users\vmadmin\source\repos\OOP-Exercises\Rechteckberechnen\bin\Debug\Rechteckberechnen.exe
+C:\Users\vmadmin\source\repos\OOP-Exercises\Rechteckberechnen\bin\Debug\Rechteckberechnen.pdb
+C:\Users\vmadmin\source\repos\OOP-Exercises\Rechteckberechnen\obj\Debug\Rechteckberechnen.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\OOP-Exercises\Rechteckberechnen\obj\Debug\Rechteckberechnen.Form1.resources
+C:\Users\vmadmin\source\repos\OOP-Exercises\Rechteckberechnen\obj\Debug\Rechteckberechnen.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\OOP-Exercises\Rechteckberechnen\obj\Debug\Rechteckberechnen.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\OOP-Exercises\Rechteckberechnen\obj\Debug\Rechteckberechnen.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\OOP-Exercises\Rechteckberechnen\obj\Debug\Rechteckberechnen.exe
+C:\Users\vmadmin\source\repos\OOP-Exercises\Rechteckberechnen\obj\Debug\Rechteckberechnen.pdb

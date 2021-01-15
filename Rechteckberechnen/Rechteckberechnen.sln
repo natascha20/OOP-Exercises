@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rechteckberechnen", "Rechteckberechnen.csproj", "{C25013F3-9229-4B7F-87E7-F1FF35C21531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C25013F3-9229-4B7F-87E7-F1FF35C21531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25013F3-9229-4B7F-87E7-F1FF35C21531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25013F3-9229-4B7F-87E7-F1FF35C21531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25013F3-9229-4B7F-87E7-F1FF35C21531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {368CDAE0-C729-4724-9098-3A6F1FB0FD34}
+	EndGlobalSection
+EndGlobal
