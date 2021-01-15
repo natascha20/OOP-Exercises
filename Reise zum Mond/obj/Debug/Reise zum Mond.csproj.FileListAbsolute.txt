@@ -1,0 +1,10 @@
+C:\Users\vmadmin\source\repos\Reise zum Mond\obj\Debug\Reise zum Mond.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\Reise zum Mond\obj\Debug\Reise_zum_Mond.FormReisezumMond.resources
+C:\Users\vmadmin\source\repos\Reise zum Mond\obj\Debug\Reise_zum_Mond.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\Reise zum Mond\obj\Debug\Reise zum Mond.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\Reise zum Mond\obj\Debug\Reise zum Mond.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\Reise zum Mond\bin\Debug\Reise zum Mond.exe.config
+C:\Users\vmadmin\source\repos\Reise zum Mond\bin\Debug\Reise zum Mond.exe
+C:\Users\vmadmin\source\repos\Reise zum Mond\bin\Debug\Reise zum Mond.pdb
+C:\Users\vmadmin\source\repos\Reise zum Mond\obj\Debug\Reise zum Mond.exe
+C:\Users\vmadmin\source\repos\Reise zum Mond\obj\Debug\Reise zum Mond.pdb
