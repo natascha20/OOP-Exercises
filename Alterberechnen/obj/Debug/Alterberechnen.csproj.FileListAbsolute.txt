@@ -1,0 +1,10 @@
+C:\Users\vmadmin\source\repos\OOP-Exercises\Alterberechnen\bin\Debug\Alterberechnen.exe.config
+C:\Users\vmadmin\source\repos\OOP-Exercises\Alterberechnen\bin\Debug\Alterberechnen.exe
+C:\Users\vmadmin\source\repos\OOP-Exercises\Alterberechnen\bin\Debug\Alterberechnen.pdb
+C:\Users\vmadmin\source\repos\OOP-Exercises\Alterberechnen\obj\Debug\Alterberechnen.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\OOP-Exercises\Alterberechnen\obj\Debug\Alterberechnen.alterBerechnen.resources
+C:\Users\vmadmin\source\repos\OOP-Exercises\Alterberechnen\obj\Debug\Alterberechnen.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\OOP-Exercises\Alterberechnen\obj\Debug\Alterberechnen.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\OOP-Exercises\Alterberechnen\obj\Debug\Alterberechnen.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\OOP-Exercises\Alterberechnen\obj\Debug\Alterberechnen.exe
+C:\Users\vmadmin\source\repos\OOP-Exercises\Alterberechnen\obj\Debug\Alterberechnen.pdb
