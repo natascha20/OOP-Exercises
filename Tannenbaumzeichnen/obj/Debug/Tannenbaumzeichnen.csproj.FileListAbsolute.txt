@@ -1,0 +1,10 @@
+C:\Users\vmadmin\source\repos\OOP-Exercises\Tannenbaumzeichnen\bin\Debug\Tannenbaumzeichnen.exe.config
+C:\Users\vmadmin\source\repos\OOP-Exercises\Tannenbaumzeichnen\bin\Debug\Tannenbaumzeichnen.exe
+C:\Users\vmadmin\source\repos\OOP-Exercises\Tannenbaumzeichnen\bin\Debug\Tannenbaumzeichnen.pdb
+C:\Users\vmadmin\source\repos\OOP-Exercises\Tannenbaumzeichnen\obj\Debug\Tannenbaumzeichnen.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\OOP-Exercises\Tannenbaumzeichnen\obj\Debug\Tannenbaumzeichnen.Tannenbaumzeichnen.resources
+C:\Users\vmadmin\source\repos\OOP-Exercises\Tannenbaumzeichnen\obj\Debug\Tannenbaumzeichnen.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\OOP-Exercises\Tannenbaumzeichnen\obj\Debug\Tannenbaumzeichnen.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\OOP-Exercises\Tannenbaumzeichnen\obj\Debug\Tannenbaumzeichnen.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\OOP-Exercises\Tannenbaumzeichnen\obj\Debug\Tannenbaumzeichnen.exe
+C:\Users\vmadmin\source\repos\OOP-Exercises\Tannenbaumzeichnen\obj\Debug\Tannenbaumzeichnen.pdb
