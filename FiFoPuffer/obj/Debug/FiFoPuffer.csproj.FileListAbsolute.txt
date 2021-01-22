@@ -1,0 +1,10 @@
+C:\Users\vmadmin\source\repos\OOP-Exercises\FiFoPuffer\bin\Debug\FiFoPuffer.exe.config
+C:\Users\vmadmin\source\repos\OOP-Exercises\FiFoPuffer\bin\Debug\FiFoPuffer.exe
+C:\Users\vmadmin\source\repos\OOP-Exercises\FiFoPuffer\bin\Debug\FiFoPuffer.pdb
+C:\Users\vmadmin\source\repos\OOP-Exercises\FiFoPuffer\obj\Debug\FiFoPuffer.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\OOP-Exercises\FiFoPuffer\obj\Debug\FiFoPuffer.Form1.resources
+C:\Users\vmadmin\source\repos\OOP-Exercises\FiFoPuffer\obj\Debug\FiFoPuffer.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\OOP-Exercises\FiFoPuffer\obj\Debug\FiFoPuffer.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\OOP-Exercises\FiFoPuffer\obj\Debug\FiFoPuffer.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\OOP-Exercises\FiFoPuffer\obj\Debug\FiFoPuffer.exe
+C:\Users\vmadmin\source\repos\OOP-Exercises\FiFoPuffer\obj\Debug\FiFoPuffer.pdb
